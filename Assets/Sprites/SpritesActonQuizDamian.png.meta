@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 7136171e2bfc2d94e8b7bbbc24b32daf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4287990031737423147
+    second: SpritesActonQuizDamian_0
+  - first:
+      213: 5473987419219229485
+    second: SpritesActonQuizDamian_1
+  - first:
+      213: -1623914124302888266
+    second: SpritesActonQuizDamian_2
+  - first:
+      213: -694067013229073205
+    second: SpritesActonQuizDamian_3
+  - first:
+      213: 8275446624583345289
+    second: SpritesActonQuizDamian_4
+  - first:
+      213: 4665923555344865971
+    second: SpritesActonQuizDamian_5
+  - first:
+      213: 2655666986553850617
+    second: SpritesActonQuizDamian_6
+  - first:
+      213: 8930274513962771000
+    second: SpritesActonQuizDamian_7
+  - first:
+      213: 2615448017227817303
+    second: SpritesActonQuizDamian_8
+  - first:
+      213: -2615183284701701687
+    second: SpritesActonQuizDamian_9
+  - first:
+      213: -6671625112117643488
+    second: SpritesActonQuizDamian_10
+  - first:
+      213: -5553646060184066962
+    second: SpritesActonQuizDamian_11
+  - first:
+      213: 7299684011310754284
+    second: SpritesActonQuizDamian_12
+  - first:
+      213: -3008608278643831571
+    second: SpritesActonQuizDamian_13
+  - first:
+      213: -2788653355998690421
+    second: SpritesActonQuizDamian_14
+  - first:
+      213: 4357270950356141999
+    second: SpritesActonQuizDamian_15
+  - first:
+      213: -7212427842401056571
+    second: SpritesActonQuizDamian_16
+  - first:
+      213: 8165796046778743280
+    second: SpritesActonQuizDamian_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 799
+        width: 585
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2500221730028b30800000000000000
+      internalID: 4287990031737423147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_1
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 799
+        width: 1173
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf48b2e8287fb40800000000000000
+      internalID: 5473987419219229485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 589
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2df2335b2b679e0800000000000000
+      internalID: -1623914124302888266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 623
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc2a229abd2e56f0800000000000000
+      internalID: -694067013229073205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 577
+        width: 431
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984eeff1cda48d270800000000000000
+      internalID: 8275446624583345289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 577
+        width: 431
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba5571a0c0b0c040800000000000000
+      internalID: 4665923555344865971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_6
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 569
+        width: 431
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa364fcd03dad420800000000000000
+      internalID: 2655666986553850617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 441
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a9771b55beeb70800000000000000
+      internalID: 8930274513962771000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 188
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512d5b4d10fb4420800000000000000
+      internalID: 2615448017227817303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 288
+        width: 188
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d0dc88a005bbd0800000000000000
+      internalID: -2615183284701701687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 288
+        width: 188
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027f6adee40a963a0800000000000000
+      internalID: -6671625112117643488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 295
+        width: 269
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e642b7e255c7de2b0800000000000000
+      internalID: -5553646060184066962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_12
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 295
+        width: 269
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a6c2deefad4560800000000000000
+      internalID: 7299684011310754284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_13
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 409
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec822bf5b64f36d0800000000000000
+      internalID: -3008608278643831571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 299
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b834ff13c86bc49d0800000000000000
+      internalID: -2788653355998690421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 41
+        width: 245
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa74b12f7d2287c30800000000000000
+      internalID: 4357270950356141999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 45
+        width: 245
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84c85271f48eb90800000000000000
+      internalID: -7212427842401056571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesActonQuizDamian_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 41
+        width: 245
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f939848d3cb25170800000000000000
+      internalID: 8165796046778743280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

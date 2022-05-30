@@ -9,4 +9,8 @@ public class CargarJuego : MonoBehaviour
         Time.timeScale = 1f;
         SceneManager.LoadScene("Game");
     }
+    public void LoadLevels(){
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("Levels");
+    }
 }

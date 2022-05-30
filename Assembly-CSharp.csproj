@@ -39,8 +39,14 @@
      <Compile Include="Assets\Scripts\CargarJuego.cs" />
      <Compile Include="Assets\Scripts\Direction.cs" />
      <Compile Include="Assets\Scripts\Disabler.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\GenerateEnemy.cs" />
+     <Compile Include="Assets\Scripts\Option.cs" />
+     <Compile Include="Assets\Scripts\OptionButton.cs" />
      <Compile Include="Assets\Scripts\Pausar.cs" />
+     <Compile Include="Assets\Scripts\Question.cs" />
+     <Compile Include="Assets\Scripts\Quiz.cs" />
+     <Compile Include="Assets\Scripts\QuizUI.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2019.4.36f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

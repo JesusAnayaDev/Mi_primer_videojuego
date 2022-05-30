@@ -5,7 +5,7 @@ using UnityEngine;
 public class Direction : MonoBehaviour
 {
     private Rigidbody2D _rigidbody;
-    public float speed = 2f;
+    public static float  speed = 250f;
 
     void Awake()
 	{
